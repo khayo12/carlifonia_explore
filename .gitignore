@@ -1,5 +1,6 @@
 ﻿# Comment
 tempfile.txt
+tempfile2.txt
 *.zip
 log/*.log
 !*.html
