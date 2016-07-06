@@ -3,3 +3,4 @@ tempfile.txt
 *.zip
 log/*.log
 !*.html
+packages/
