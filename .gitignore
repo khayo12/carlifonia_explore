@@ -1,0 +1,5 @@
+﻿# Comment
+tempfile.txt
+*.zip
+log/*.log
+!*.html
